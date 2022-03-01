@@ -11,3 +11,5 @@ if (numero < 2) {
 else {
     console.log("Cuack!")
 }
+
+//mostrara cuack ya que 3 es mayor que dos y por lo tanto no se cumple la condicion de if

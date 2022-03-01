@@ -16,3 +16,5 @@ if (4 > 3 && -1 > 0) {
     console.log("Esta condición también se cumple?");
 
 }
+
+// En el terminal solo se va a ver "esta condicion se cumple" la segunda no se va a ver ya que -1 no es mayor que 0. Al no cumplirse una de las dos condiciones el mensaje no se muestra.

@@ -8,10 +8,11 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Opera
 
 */
 
-let usuario = "pepe";
+let usuario = "pepa";
 let password = "1995";
 
 /** NO TOCAR A PARTIR DE AQUÍ  */
 if (usuario == "pepa" && password == "1995") {
     console.log("Credenciales correctas, bievenido/a!");
 }
+
